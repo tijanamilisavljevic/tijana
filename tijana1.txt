@@ -88,3 +88,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         Online konsultacija
       </div>
     </div>
+    <h3 class="w3-padding-24">Ocene korisnika</h3>
+    <p><span class="w3-large w3-text-black w3-margin-right">Magdalena Mitrovic</span> Web dizajner.</p>
+    <p>Sve preporuke ukoliko su vam potrebne online konsultacije.</p><br>
+   
+    <p><span class="w3-large w3-text-black w3-margin-right">Teodor Peric</span> osnivac MK Invest</p>
+    <p>Najbolja od najboljih...</p><br>
